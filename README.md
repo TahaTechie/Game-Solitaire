@@ -1,2 +1,2 @@
 # Game-Solitaire
-Solitaire using C++ 
+Solitaire game using C++ 
